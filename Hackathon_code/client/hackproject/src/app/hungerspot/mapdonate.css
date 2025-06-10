@@ -1,0 +1,34 @@
+.donater-container {
+  display: grid;
+  position: relative;
+  top: 100px;
+  place-items: center; /* Centers content horizontally */
+}
+
+/* Image Grid Layout */
+.donater-image-grid {
+  display: grid;
+  position: relative;
+  top: 100px;
+  grid-template-columns: repeat(2, 1fr); /* Two equal columns */
+  grid-template-rows: repeat(2, minmax(120px, 1fr)); /* Responsive row height */
+  gap: 8px; /* Adds spacing between images */
+}
+
+/* First Image - Takes Two Rows */
+.donater-image-grid div:first-child {
+  width: 153px;
+  grid-row: span 2;
+}
+
+/* Image Styling */
+.donater-image-grid div {
+  margin: 0; /* Remove unnecessary margin */
+}
+
+.food-image {
+  width: 100%; /* Ensures full width */
+  height: 100%;
+  object-fit: cover; /* Keeps image aspect ratio */
+  border-radius: 8px; /* Slightly rounded corners for modern look */
+}

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" id="PinLocation">
+  <g fill="#000000" class="color000000 svgShape">
+    <path fill="#358d3a" d="M18.48 21.14h-.004C20.49 17.78 23 12.995 23 10a7 7 0 0 0-14 0c0 2.995 2.51 7.78 4.524 11.14h-.004C9.76 21.55 7 22.9 7 24.5c0 1.93 4.03 3.5 9 3.5s9-1.57 9-3.5c0-1.6-2.76-2.95-6.52-3.36Z" class="color358d3e svgShape"></path>
+    <path fill="#088c10" d="M17.378 22.664c2.089.228 3.622.978 3.622 1.867 0 1.072-2.239 1.945-5 1.945s-5-.873-5-1.945c0-.889 1.533-1.639 3.622-1.867Z" class="color2c7c33 svgShape"></path>
+    <path fill="#28c331" d="M23 10c0 5-7 15-7 15S9 15 9 10a7 7 0 0 1 14 0Z" class="colorc32928 svgShape"></path>
+    <path fill="#1db626" d="M16 3a7 7 0 0 1 7 7c0 5-7 15-7 15Z" class="colorb61d1f svgShape"></path>
+    <circle cx="16" cy="10" r="2" fill="#eafeeb" class="colorfeeaed svgShape"></circle>
+  </g>
+</svg>
